@@ -1,0 +1,4 @@
+test_id,actual_class,predicted_class,prediction_score_percent,Result
+1,Tomato_Late_Bright,Tomato_Late_Bright,99%,correct
+2,Apple_Healthy,Apple_Healthy,99%,correct
+3,Potatao_early_bright,Potatao_early_bright,98%,correct
